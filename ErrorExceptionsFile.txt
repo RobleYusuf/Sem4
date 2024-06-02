@@ -1,0 +1,61 @@
+
+-------------------------------------------
+Exception: kth.se.IV1350.PointOfSale.exceptions.ItemNotFoundException: The scanned item is not in inventorySystem
+Occurred at: 2024-05-23 17:08:29.533
+Stacktrace:
+kth.se.IV1350.PointOfSale.integration.InventorySystem.getItemInfo(InventorySystem.java:43)
+kth.se.IV1350.PointOfSale.controller.Controller.scanItem(Controller.java:55)
+kth.se.IV1350.PointOfSale.view.View.runFakeExecution(View.java:102)
+kth.se.IV1350.PointOfSale.startup.Main.main(Main.java:30)
+-------------------------------------------
+
+-------------------------------------------
+Exception: kth.se.IV1350.PointOfSale.exceptions.ItemNotFoundException: The scanned item is not in inventorySystem
+Occurred at: 2024-05-23 17:12:11.867
+Stacktrace:
+kth.se.IV1350.PointOfSale.integration.InventorySystem.getItemInfo(InventorySystem.java:43)
+kth.se.IV1350.PointOfSale.controller.Controller.scanItem(Controller.java:55)
+kth.se.IV1350.PointOfSale.view.View.runFakeExecution(View.java:102)
+kth.se.IV1350.PointOfSale.startup.Main.main(Main.java:30)
+-------------------------------------------
+
+-------------------------------------------
+Exception: kth.se.IV1350.PointOfSale.exceptions.ItemNotFoundException: The scanned item is not in inventorySystem
+Occurred at: 2024-05-23 17:19
+Stacktrace:
+kth.se.IV1350.PointOfSale.integration.InventorySystem.getItemInfo(InventorySystem.java:43)
+kth.se.IV1350.PointOfSale.controller.Controller.scanItem(Controller.java:55)
+kth.se.IV1350.PointOfSale.view.View.runFakeExecution(View.java:102)
+kth.se.IV1350.PointOfSale.startup.Main.main(Main.java:30)
+-------------------------------------------
+
+-------------------------------------------
+Exception: kth.se.IV1350.PointOfSale.exceptions.DatabaseFailureException: Sorry , an Error occurred with connecting database please tyr again later
+Occurred at: 2024-05-23 18:15
+Stacktrace:
+kth.se.IV1350.PointOfSale.integration.InventorySystem.getItemInfo(InventorySystem.java:34)
+kth.se.IV1350.PointOfSale.controller.Controller.scanItem(Controller.java:55)
+kth.se.IV1350.PointOfSale.view.View.runFakeExecution(View.java:102)
+kth.se.IV1350.PointOfSale.startup.Main.main(Main.java:30)
+-------------------------------------------
+
+-------------------------------------------
+Exception: kth.se.IV1350.PointOfSale.exceptions.DatabaseFailureException: Sorry , an Error occurred with connecting database please tyr again later
+Occurred at: 2024-05-23 18:15
+Stacktrace:
+kth.se.IV1350.PointOfSale.integration.InventorySystem.getItemInfo(InventorySystem.java:34)
+kth.se.IV1350.PointOfSale.controller.Controller.scanItem(Controller.java:55)
+kth.se.IV1350.PointOfSale.view.View.runFakeExecution(View.java:102)
+kth.se.IV1350.PointOfSale.startup.Main.main(Main.java:30)
+-------------------------------------------
+
+-------------------------------------------
+Exception: kth.se.IV1350.PointOfSale.exceptions.DatabaseFailureException: Sorry , an Error occurred with connecting database please tyr again later
+Occurred at: 2024-05-23 18:15
+Stacktrace:
+kth.se.IV1350.PointOfSale.integration.InventorySystem.getItemInfo(InventorySystem.java:34)
+kth.se.IV1350.PointOfSale.controller.Controller.scanItem(Controller.java:55)
+kth.se.IV1350.PointOfSale.view.View.runFakeExecution(View.java:102)
+kth.se.IV1350.PointOfSale.startup.Main.main(Main.java:30)
+-------------------------------------------
+
